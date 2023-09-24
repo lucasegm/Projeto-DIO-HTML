@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido como parte do curso da Digital Innovation One e tem como objetivo apresentar os conceitos básicos de HTML (HyperText Markup Language), uma linguagem de marcação utilizada para estruturar e formatar o conteúdo de páginas web.
 
+Acesse agora clicando [aqui](https://lucasegm.github.io/Projeto-DIO-HTML/)
+
 ## Sobre o Projeto
 
 O projeto consiste em uma página web simples que fornece informações sobre HTML, sua definição e como aprender a usá-lo. O conteúdo foi organizado em várias seções para facilitar a leitura e compreensão do assunto.
